@@ -26,7 +26,7 @@ jobs:
         run: python ./scripts/write_md.py
 
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: viet-tuan le/git-auto-commit-action@v4
         with:
           commit_message: 'Update README'
           branch: main
