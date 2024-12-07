@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - 'data.json'
+  schedule:
+    - cron: "*/1 * * * *" # Runs every 30 minutes
 
 jobs:
   update_files:
