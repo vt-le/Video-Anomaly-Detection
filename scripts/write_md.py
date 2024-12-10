@@ -35,7 +35,7 @@ for item in data:
     item["Date"] = item["Date"].strftime("%d %b %Y")
 
 for row in data:
-    content += f"| [{row['Title']}]({row['Link']}) | {row['Initial Date']} | {row['Venue']} | "
+    content += f"| [{row['Title']}]({row['Link']}) | {row['Date']} | {row['Venue']} | "
     # {row['Task']} | {row['Resource']} |\n
     for task in row['Task']:
         content += f"{badges[task.lower()]} "
