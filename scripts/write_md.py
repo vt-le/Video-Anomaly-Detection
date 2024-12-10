@@ -12,13 +12,13 @@ content += "| Paper | Date | Venue | Task | Resource | Model |\n"
 content += "| --- | --- | --- | --- | --- | --- |\n"
 
 badges = {
-    "image": "![](./assets/image.svg)",
-    "video": "![](./assets/video.svg)",
-    "3d": "![](./assets/3d.svg)",
-    "speech": "![](./assets/speech.svg)",
-    "others": "![](./assets/others.svg)",
-    "code": "[![](./assets/code.svg)]({})",
-    "website": "[![](./assets/website.svg)]({})",
+    "image": "![](./scripts/assets/image.svg)",
+    "video": "![](./scripts/assets/video.svg)",
+    "3d": "![](./scripts/assets/3d.svg)",
+    "speech": "![](./scripts/assets/speech.svg)",
+    "others": "![](./scripts/assets/others.svg)",
+    "code": "[![](./scripts/assets/code.svg)]({})",
+    "website": "[![](./scripts/assets/website.svg)]({})",
 }
 
 data = json.loads(open("./scripts/data.json").read())
