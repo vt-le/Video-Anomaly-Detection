@@ -33,7 +33,7 @@ data = sorted(data, key=lambda x: x["Date"])
 # Convert the "Initial Date" back to string format for displaying
 for item in data:
     item["Date"] = item["Date"].strftime("%d %b %Y")
-    item["Model"] = "./scripts/images/" + item["Model"]
+    item["Model"] = "./scripts/images/" + item['Model']
     
     
 
