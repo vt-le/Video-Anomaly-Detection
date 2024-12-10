@@ -4,7 +4,7 @@
         "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
         "Date": "2024",
         "Venue": "Conf",
-        "Task": ["Video"],
+        "Task": ["video"],
         "Resource": {
             "Code": "https://github.com/donglgcn/ADA-VAD"
         },
@@ -16,7 +16,7 @@
         "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
         "Date": "2024",
         "Venue": "Jour",
-        "Task": ["Video"],
+        "Task": ["video"],
         "Resource": {
             "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
         },
