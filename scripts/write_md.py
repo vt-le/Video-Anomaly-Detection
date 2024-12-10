@@ -25,10 +25,10 @@ data = json.loads(open("data.json").read())
 
 # Convert the "Initial Date" from string to datetime object for accurate sorting
 for item in data:
-    item["Initial Date"] = datetime.strptime(item["Initial Date"], "%d %b %Y")
+    item["Date"] = datetime.strptime(item["Date"], "%d %b %Y")
 
 # Sort the items by "Initial Date"
-data = sorted(data, key=lambda x: x["Initial Date"])
+data = sorted(data, key=lambda x: x["Date"])
 
 # Convert the "Initial Date" back to string format for displaying
 for item in data:
