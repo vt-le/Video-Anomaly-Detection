@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
     paths:
-      - 'data.json'
+      - 'scripts/data.json'
   schedule:
     - cron: "*/1 * * * *" # Runs every 30 minutes
 
