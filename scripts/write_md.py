@@ -8,7 +8,7 @@ content = """
 
 
 # write table headers
-content += "| Title | Initial Date | Venue | Task | Resource |\n"
+content += "| Title | Date | Venue | Task | Resource |\n"
 content += "| --- | --- | --- | --- | --- |\n"
 
 badges = {
@@ -25,14 +25,14 @@ data = json.loads(open("data.json").read())
 
 # Convert the "Initial Date" from string to datetime object for accurate sorting
 for item in data:
-    item["Initial Date"] = datetime.strptime(item["Initial Date"], "%d %b %Y")
+    item["Date"] = datetime.strptime(item["Date"], "%d %b %Y")
 
 # Sort the items by "Initial Date"
-data = sorted(data, key=lambda x: x["Initial Date"])
+data = sorted(data, key=lambda x: x["Date"])
 
 # Convert the "Initial Date" back to string format for displaying
 for item in data:
-    item["Initial Date"] = item["Initial Date"].strftime("%d %b %Y")
+    item["Date"] = item["Date"].strftime("%d %b %Y")
 
 for row in data:
     content += f"| [{row['Title']}]({row['Link']}) | {row['Initial Date']} | {row['Venue']} | "
@@ -46,15 +46,6 @@ for row in data:
 
 content += \
 """
-
-## Contributing
-
-Your contributions are always welcome!
-
-Feel free to add/update contents in the [data.json](./data.json) file.
-
-This README and the [website](https://www.shoufachen.com/Awesome-Diffusion-Transformers) will be updated automatically, powered by GitHub Actions.
-
 🚀 🚀 🚀
 """
 
