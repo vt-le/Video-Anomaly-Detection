@@ -2,7 +2,7 @@
     {
         "Title": "Scalable Diffusion Models with Transformers",
         "Link": "https://arxiv.org/abs/2212.09748",
-        "Date": "19 Dec 2022",
+        "Date": "2022",
         "Venue": "ICCV'2023",
         "Task": ["Image"],
         "Resource": {
@@ -13,7 +13,7 @@
     {
         "Title": "Open-Sora-Plan",
         "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
-        "Date": "1 Mar 2024",
+        "Date": "2024",
         "Venue": "GitHub",
         "Task": ["Video"],
         "Resource": {
