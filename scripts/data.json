@@ -2,8 +2,8 @@
   {
     "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
     "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
-    "Date": "01 Jan 2024",
-    "Venue": "SDM",
+    "Date": "2024",
+    
     "Task": [ "Image" ],
     "Resource": {
       "Code": "https://github.com/donglgcn/ADA-VAD"
@@ -13,8 +13,7 @@
   {
     "Title": "Video anomaly detection guided by clustering learning",
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017",
-    "Date": "01 Jan 2024",
-    "Venue": "PR",
+    "Date": "2024",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning"
@@ -24,8 +23,7 @@
   {
     "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146",
-    "Date": "13 Jan 2024",
-    "Venue": "Engineering Applications of Artificial Intelligence",
+    "Date": "2024",
     "Task": [ "Image" ],
     "Resource": {
       "Website": "https://github.com/Rituraj-ksi/A2D-GAN",

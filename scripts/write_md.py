@@ -31,11 +31,11 @@ for item in data:
 data = sorted(data, key=lambda x: x["Date"])
 
 # Convert the "Initial Date" back to string format for displaying
-for item in data:
-    item["Date"] = item["Date"].strftime("%d %b %Y")
+#for item in data:
+#    item["Date"] = item["Date"].strftime("%d %b %Y")
 
 for row in data:
-    content += f"| [{row['Title']}]({row['Link']}) | {row['Date']} | {row['Venue']} | "
+    content += f"| [{row['Title']}]({row['Link']}) | {row['Date']} |"
     # {row['Task']} | {row['Resource']} | {row['Resource']} |\n
     for task in row['Task']:
         content += f"{badges[task.lower()]} "
