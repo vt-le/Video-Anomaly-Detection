@@ -7,7 +7,8 @@
     "Task": [ "Image" ],
     "Resource": {
       "Code": "https://github.com/donglgcn/ADA-VAD"
-    }
+    },
+    "Model": "<img src="https://github.com/user-attachments/assets/1ac6ef10-35eb-48d5-acb4-b63d9deb80cc" alt="placeholder" width="70%" height="70%">"
   },
   {
     "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
