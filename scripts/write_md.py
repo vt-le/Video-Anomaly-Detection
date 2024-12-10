@@ -19,7 +19,7 @@ badges = {
     "others": "![](./assets/others.svg)",
     "code": "[![](./assets/code.svg)]({})",
     "website": "[![](./assets/website.svg)]({})",
-    "model": "[![](./assets/website.svg)](<img src="https://github.com/user-attachments/assets/2a2cb03e-2828-4ed1-b227-74a2891e87da" alt="placeholder" width="75%" height="75%">)",
+    "model": "<img src="{}" alt="placeholder" width="75%" height="75%">",
 }
 
 data = json.loads(open("data.json").read())
