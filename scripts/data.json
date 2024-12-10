@@ -9,7 +9,7 @@
             "Website": "https://www.wpeebles.com/DiT",
             "Code": "https://github.com/facebookresearch/DiT"
         },
-        "Model": ""
+        "Model": "Conf"
     },
     {
         "Title": "Open-Sora-Plan",
@@ -21,6 +21,6 @@
             "Website": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
             "Code": "https://github.com/PKU-YuanGroup/Open-Sora-Plan"
         },
-        "Model": ""
+        "Model": "Conf"
     }
 ]
