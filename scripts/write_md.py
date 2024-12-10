@@ -8,8 +8,8 @@ content = """
 
 
 # write table headers
-content += "| Paper | Date | Venue | Task | Resource | Model |\n"
-content += "| --- | --- | --- | --- | --- | --- |\n"
+content += "| Paper | Date | Venue | Task | Resource |\n"
+content += "| --- | --- | --- | --- | --- |\n"
 
 badges = {
     "image": "![](./assets/image.svg)",
@@ -19,7 +19,6 @@ badges = {
     "others": "![](./assets/others.svg)",
     "code": "[![](./assets/code.svg)]({})",
     "website": "[![](./assets/website.svg)]({})",
-    "model": "[![](./assets/website.svg)]({})",
 }
 
 data = json.loads(open("data.json").read())
