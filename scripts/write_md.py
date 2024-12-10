@@ -12,16 +12,16 @@ content += "| Title | Initial Date | Venue | Task | Resource |\n"
 content += "| --- | --- | --- | --- | --- |\n"
 
 badges = {
-    "image": "![](./scripts/assets/image.svg)",
-    "video": "![](./scripts/assets/video.svg)",
-    "3d": "![](./scripts/assets/3d.svg)",
-    "speech": "![](./scripts/assets/speech.svg)",
-    "others": "![](./scripts/assets/others.svg)",
-    "code": "[![](./scripts/assets/code.svg)]({})",
-    "website": "[![](./scripts/assets/website.svg)]({})",
+    "image": "![](./assets/image.svg)",
+    "video": "![](./assets/video.svg)",
+    "3d": "![](./assets/3d.svg)",
+    "speech": "![](./assets/speech.svg)",
+    "others": "![](./assets/others.svg)",
+    "code": "[![](./assets/code.svg)]({})",
+    "website": "[![](./assets/website.svg)]({})",
 }
 
-data = json.loads(open("/scripts/data.json").read())
+data = json.loads(open("data.json").read())
 
 # Convert the "Initial Date" from string to datetime object for accurate sorting
 for item in data:
