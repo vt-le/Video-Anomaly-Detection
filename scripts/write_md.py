@@ -8,8 +8,8 @@ content = """
 
 
 # write table headers
-content += "| Title | Date | Venue | Task | Resource |\n"
-content += "| --- | --- | --- | --- | --- |\n"
+content += "| Title | Date | Venue | Task | Resource | Model |\n"
+content += "| --- | --- | --- | --- | --- | --- |\n"
 
 badges = {
     "image": "![](./assets/image.svg)",
@@ -42,7 +42,7 @@ for row in data:
     content += f"| "
     for k, v in row['Resource'].items():
         content += badges[k.lower()].format(v) + " "
-    content += f"| \n"
+    content += f"| {row['Model']} |\n"
 
 content += \
 """
