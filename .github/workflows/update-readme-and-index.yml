@@ -32,4 +32,4 @@ jobs:
         with:
           commit_message: 'Automatically update README and index.html'
           branch: main
-          file_pattern: README.md index.html
+          file_pattern: README.md
