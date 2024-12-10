@@ -22,9 +22,6 @@ jobs:
           python -m pip install --upgrade pip
           # Add any other dependencies here
 
-      - name: Run write_html.py
-        run: python ./scripts/write_html.py
-
       - name: Run write_md.py
         run: python ./scripts/write_md.py
 
