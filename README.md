@@ -3,7 +3,7 @@
 
 | Title | Date | Venue | Task | Resource |
 | --- | --- | --- | --- | --- |
-| [Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748) | 19 Dec 2022 | ICCV'2023 | ![](./assets/image.svg) | [![](./assets/website.svg)](https://www.wpeebles.com/DiT) [![](./assets/code.svg)](https://github.com/facebookresearch/DiT) | 
-| [Open-Sora-Plan](https://pku-yuangroup.github.io/Open-Sora-Plan/) | 01 Mar 2024 | GitHub | ![](./assets/video.svg) | [![](./assets/website.svg)](https://pku-yuangroup.github.io/Open-Sora-Plan/) [![](./assets/code.svg)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | 
+| [Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748) | 2022 | ICCV'2023 | ![](./assets/image.svg) | [![](./assets/website.svg)](https://www.wpeebles.com/DiT) [![](./assets/code.svg)](https://github.com/facebookresearch/DiT) | 
+| [Open-Sora-Plan](https://pku-yuangroup.github.io/Open-Sora-Plan/) | 2024 | GitHub | ![](./assets/video.svg) | [![](./assets/website.svg)](https://pku-yuangroup.github.io/Open-Sora-Plan/) [![](./assets/code.svg)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | 
 
 🚀 🚀 🚀
