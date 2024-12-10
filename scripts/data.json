@@ -1,26 +1,26 @@
 [
     {
-        "Title": "Scalable Diffusion Models with Transformers",
-        "Link": "https://arxiv.org/abs/2212.09748",
-        "Date": "2022",
-        "Venue": "ICCV'2023",
-        "Task": ["Image"],
+        "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
+        "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
+        "Date": "2024",
+        "Venue": "",
+        "Task": ["Few-shot"],
         "Resource": {
-            "Website": "https://www.wpeebles.com/DiT",
-            "Code": "https://github.com/facebookresearch/DiT"
+            "Website": "",
+            "Code": "https://github.com/donglgcn/ADA-VAD"
         },
         "Model": "Conf"
     },
     {
-        "Title": "Open-Sora-Plan",
+        "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
         "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
         "Date": "2024",
-        "Venue": "GitHub",
-        "Task": ["Video"],
+        "Venue": "",
+        "Task": [""],
         "Resource": {
-            "Website": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
-            "Code": "https://github.com/PKU-YuanGroup/Open-Sora-Plan"
+            "Website": "",
+            "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
         },
-        "Model": "Conf"
+        "Model": "Jour"
     }
 ]
