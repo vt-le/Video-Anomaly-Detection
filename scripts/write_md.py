@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 
 content = """
-# [Awesome Video Anomaly Detection](https://github.com/vt-le/VideoAnomalyDection) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Diffusion Transformers](https://www.shoufachen.com/Awesome-Diffusion-Transformers/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 """
 
@@ -46,6 +46,15 @@ for row in data:
 
 content += \
 """
+
+## Contributing
+
+Your contributions are always welcome!
+
+Feel free to add/update contents in the [data.json](./data.json) file.
+
+This README and the [website](https://www.shoufachen.com/Awesome-Diffusion-Transformers) will be updated automatically, powered by GitHub Actions.
+
 🚀 🚀 🚀
 """
 
