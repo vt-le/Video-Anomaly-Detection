@@ -11,6 +11,17 @@
     "Model": "000001.jpg"
   },
   {
+    "Title": "Video anomaly detection guided by clustering learning",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017",
+    "Date": "01 Jan 2024",
+    "Venue": "PR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning"
+    },
+    "Model": "000001.jpg"
+  },
+  {
     "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146",
     "Date": "13 Jan 2024",
