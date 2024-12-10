@@ -25,7 +25,7 @@ jobs:
           # Add any other dependencies here
 
       - name: Run write_md.py
-        run: python write_md.py
+        run: python ./scripts/write_md.py
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
