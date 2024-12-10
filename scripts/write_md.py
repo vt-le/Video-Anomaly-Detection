@@ -12,13 +12,13 @@ content += "| Title | Date | Venue | Task | Resource |\n"
 content += "| --- | --- | --- | --- | --- |\n"
 
 badges = {
-    "image": "![](./assets/image.svg)",
-    "video": "![](./assets/video.svg)",
-    "3d": "![](./assets/3d.svg)",
-    "speech": "![](./assets/speech.svg)",
-    "others": "![](./assets/others.svg)",
-    "code": "[![](./assets/code.svg)]({})",
-    "website": "[![](./assets/website.svg)]({})",
+    "image": "![](.github/workflows/assets/image.svg)",
+    "video": "![](.github/workflows/assets/video.svg)",
+    "3d": "![](.github/workflows/assets/3d.svg)",
+    "speech": "![](.github/workflows/assets/speech.svg)",
+    "others": "![](.github/workflows/assets/others.svg)",
+    "code": "[![](.github/workflows/assets/code.svg)]({})",
+    "website": "[![](.github/workflows/assets/website.svg)]({})",
 }
 
 data = json.loads(open("data.json").read())
