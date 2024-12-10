@@ -21,7 +21,7 @@ badges = {
     "website": "[![](./scripts/assets/website.svg)]({})",
 }
 
-data = json.loads(open("scripts/data.json").read())
+data = json.loads(open("/scripts/data.json").read())
 
 # Convert the "Initial Date" from string to datetime object for accurate sorting
 for item in data:
