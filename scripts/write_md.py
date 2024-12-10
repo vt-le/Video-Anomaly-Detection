@@ -2,14 +2,14 @@ import json
 from datetime import datetime
 
 content = """
-# [Awesome Video Anomaly Detection](https://github.com/vt-le/VideoAnomalyDection) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Video Anomaly Detection](https://github.com/vt-le/Video-Anomaly-Dection) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 """
 
 
 # write table headers
-content += "| Title | Initial Date | Venue | Task | Resource |\n"
-content += "| --- | --- | --- | --- | --- |\n"
+content += "| Paper | Date | Venue | Task | Resource | Model |\n"
+content += "| --- | --- | --- | --- | --- | ---|\n"
 
 badges = {
     "image": "![](./assets/image.svg)",
@@ -19,6 +19,7 @@ badges = {
     "others": "![](./assets/others.svg)",
     "code": "[![](./assets/code.svg)]({})",
     "website": "[![](./assets/website.svg)]({})",
+    "model": "[![](./assets/website.svg)](<img src="https://github.com/user-attachments/assets/2a2cb03e-2828-4ed1-b227-74a2891e87da" alt="placeholder" width="75%" height="75%">)",
 }
 
 data = json.loads(open("data.json").read())
@@ -32,11 +33,11 @@ data = sorted(data, key=lambda x: x["Initial Date"])
 
 # Convert the "Initial Date" back to string format for displaying
 for item in data:
-    item["Initial Date"] = item["Initial Date"].strftime("%d %b %Y")
+    item["Date"] = item["Date"].strftime("%d %b %Y")
 
 for row in data:
-    content += f"| [{row['Title']}]({row['Link']}) | {row['Initial Date']} | {row['Venue']} | "
-    # {row['Task']} | {row['Resource']} |\n
+    content += f"| [{row['Title']}]({row['Link']}) | {row['Date']} | {row['Venue']} | "
+    # {row['Task']} | {row['Resource']} | {row['Resource']} |\n
     for task in row['Task']:
         content += f"{badges[task.lower()]} "
     content += f"| "
