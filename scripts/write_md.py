@@ -42,7 +42,7 @@ for row in data:
     content += f"| "
     for k, v in row['Resource'].items():
         content += badges[k.lower()].format(v) + " "
-    content += f"| [{row['Model']}]({row['Link']}) |\n"
+    content += f"| {row['Model']} |\n"
 
 content += \
 """
