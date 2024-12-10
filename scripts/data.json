@@ -3,24 +3,24 @@
         "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
         "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
         "Date": "2024",
-        "Venue": "",
+        "Venue": "Conf",
         "Task": ["Few-shot"],
         "Resource": {
-            "Website": "",
             "Code": "https://github.com/donglgcn/ADA-VAD"
         },
-        "Model": "Conf"
+        "Model": "Model",
+        "ModelLink": "https://github.com/vt-le/VideoAnomalyDection"
     },
     {
         "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
         "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
         "Date": "2024",
-        "Venue": "",
+        "Venue": "Jour",
         "Task": [""],
         "Resource": {
-            "Website": "",
             "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
         },
-        "Model": "Jour"
+        "Model": "Model",
+        "ModelLink": "https://github.com/vt-le/VideoAnomalyDection"
     }
 ]
