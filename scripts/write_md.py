@@ -24,15 +24,15 @@ badges = {
 data = json.loads(open("./scripts/data.json").read())
 
 # Convert the "Initial Date" from string to datetime object for accurate sorting
-#for item in data:
-#    item["Date"] = datetime.strptime(item["Date"], "%d %b %Y")
+for item in data:
+    item["Date"] = datetime.strptime(item["Date"], "%Y")
 
 # Sort the items by "Initial Date"
-#data = sorted(data, key=lambda x: x["Date"])
+data = sorted(data, key=lambda x: x["Date"])
 
 # Convert the "Initial Date" back to string format for displaying
-#for item in data:
-#    item["Date"] = item["Date"].strftime("%d %b %Y")
+for item in data:
+    item["Date"] = item["Date"].strftime("%Y")
 
 for row in data:
     content += f"| [{row['Title']}]({row['Link']}) | {row['Date']} | {row['Venue']} | "
