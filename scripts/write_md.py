@@ -8,8 +8,8 @@ content = """
 
 
 # write table headers
-content += "| Paper | Date | Venue | Task | Resource |\n"
-content += "| --- | --- | --- | --- | --- |\n"
+content += "| Paper | Date | Venue | Task | Resource | Model |\n"
+content += "| --- | --- | --- | --- | --- | --- |\n"
 
 badges = {
     "image": "![](./assets/image.svg)",
