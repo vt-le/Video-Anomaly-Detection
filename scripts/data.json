@@ -6,8 +6,7 @@
     "Task": [ "Image" ],
     "Resource": {
       "Code": "https://github.com/donglgcn/ADA-VAD"
-    },
-    "Model": "000001.jpg"
+    }
   },
   {
     "Title": "Video anomaly detection guided by clustering learning",
@@ -17,8 +16,7 @@
     "Resource": {
       "Code": "https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning"
     },
-    "Model": "000001.jpg"
-  },
+  }
   {
     "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146",
@@ -27,7 +25,6 @@
     "Resource": {
       "Website": "https://github.com/Rituraj-ksi/A2D-GAN",
       "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
-    },
-    "Model": "000001.jpg"
+    }
   }    
 ]
