@@ -1,24 +1,23 @@
 [
-    {
-        "Title": "Scalable Diffusion Models with Transformers",
-        "Link": "https://arxiv.org/abs/2212.09748",
-        "Initial Date": "19 Dec 2022",
-        "Venue": "ICCV'2023",
-        "Task": ["Image"],
-        "Resource": {
-            "Website": "https://www.wpeebles.com/DiT",
-            "Code": "https://github.com/facebookresearch/DiT"
-        }
-    },
-    {
-        "Title": "Open-Sora-Plan",
-        "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
-        "Initial Date": "1 Mar 2024",
-        "Venue": "GitHub",
-        "Task": ["Video"],
-        "Resource": {
-            "Website": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
-            "Code": "https://github.com/PKU-YuanGroup/Open-Sora-Plan"
-        }
+  {
+    "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
+    "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
+    "Initial Date": "00 Jan 2024",
+    "Venue": "SDM",
+    "Task": [ "Image" ],
+    "Resource": {
+      "Code": "https://github.com/donglgcn/ADA-VAD"
     }
+  },
+  {
+    "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146",
+    "Initial Date": "13 Jan 2024",
+    "Venue": "Engineering Applications of Artificial Intelligence",
+    "Task": [ "Image" ],
+    "Resource": {
+      "Website": "https://github.com/Rituraj-ksi/A2D-GAN",
+      "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
+    }
+  }    
 ]
