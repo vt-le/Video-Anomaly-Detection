@@ -28,7 +28,7 @@ for item in data:
     item["Date"] = datetime.strptime(item["Date"], "%d %b %Y")
 
 # Sort the items by "Initial Date"
-data = sorted(data, key=lambda x: x["Date"])
+#data = sorted(data, key=lambda x: x["Date"])
 
 # Convert the "Initial Date" back to string format for displaying
 #for item in data:
