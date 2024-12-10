@@ -2,7 +2,7 @@
   {
     "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
     "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
-    "Initial Date": "01 Jan 2024",
+    "Date": "01 Jan 2024",
     "Venue": "SDM",
     "Task": [ "Image" ],
     "Resource": {
@@ -12,7 +12,7 @@
   {
     "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146",
-    "Initial Date": "13 Jan 2024",
+    "Date": "13 Jan 2024",
     "Venue": "Engineering Applications of Artificial Intelligence",
     "Task": [ "Image" ],
     "Resource": {
