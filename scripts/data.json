@@ -15,8 +15,8 @@
     "Task": [ "Video" ],
     "Resource": {
       "Code": "https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning"
-    },
-  }
+    }
+  },
   {
     "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146",
