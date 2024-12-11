@@ -9,7 +9,7 @@
             "Code": "https://github.com/donglgcn/ADA-VAD"
         },
         "Model": "Model",
-        "ModelLink": "https://github.com/vt-le/VideoAnomalyDection"
+        "ModelLink": "https://github.com/vt-le/"
     },
     {
         "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
