@@ -3,7 +3,7 @@
     "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
     "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
     "Date": "2024",
-    "Venue": "Conference",
+    "Venue": "C-SIAM",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "https://github.com/donglgcn/ADA-VAD"
@@ -13,9 +13,9 @@
   },
   {
     "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
-    "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S0952197623020146",
     "Date": "2024",
-    "Venue": "Journal",
+    "Venue": "J-EAAI",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
@@ -27,7 +27,7 @@
     "Title": "Video anomaly detection guided by clustering learning",
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017",
     "Date": "2024",
-    "Venue": "Journal",
+    "Venue": "J-PR",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning"
@@ -39,7 +39,7 @@
     "Title": "Toward Video Anomaly Retrieval From Video Anomaly Detection: New Benchmarks and Model",
     "Link": "https://ieeexplore.ieee.org/abstract/document/10471334",
     "Date": "2024",
-    "Venue": "Journal",
+    "Venue": "J-ITIP",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -51,7 +51,7 @@
     "Title": "Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning",
     "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf",
     "Date": "2024",
-    "Venue": "Conference",
+    "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"

@@ -41,7 +41,10 @@ for row in data:
         content += f"{badges[task.lower()]} "
     content += f"| "
     for k, v in row['Resource'].items():
-        content += badges[k.lower()].format(v) + " "
+        if (v != "-"):
+            content += badges[k.lower()].format(v) + " "
+        else:
+            content += "-" + " "
     content += f"| [{row['Model']}]({row['ModelLink']}) |\n"
 
 content += \
