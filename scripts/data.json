@@ -1,26 +1,422 @@
 [
-    {
-        "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
-        "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
-        "Date": "2024",
-        "Venue": "Conf",
-        "Task": ["video"],
-        "Resource": {
-            "Code": "https://github.com/donglgcn/ADA-VAD"
-        },
-        "Model": "Model",
-        "ModelLink": "https://drive.google.com/file/d/1tmzBCWUjBe15K7qQxL_ivMtwRXh6XR3W/view?usp=sharing"
+  {
+    "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
+    "Link": "https://epubs.siam.org/doi/10.1137/1.9781611978032.73",
+    "Date": "2024",
+    "Venue": "Conference",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/donglgcn/ADA-VAD"
     },
-    {
-        "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
-        "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
-        "Date": "2024",
-        "Venue": "Jour",
-        "Task": ["video"],
-        "Resource": {
-            "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
-        },
-        "Model": "Model",
-        "ModelLink": "https://github.com/vt-le/VideoAnomalyDection"
-    }
+    "Model": "Model",
+    "ModelLink": "https://drive.google.com/file/d/1LX_mihqutn4iq57Liy9LfJ5Z6GE7eWi_/view?usp=sharing"
+  },
+  {
+    "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
+    "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
+    "Date": "2024",
+    "Venue": "Journal",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
+    },
+    "Model": "Model",
+    "ModelLink": "https://drive.google.com/file/d/1glzC2wzSGbIJS8ZCAJKtcAW_zpCgmBDB/view?usp=sharing"
+  },
+  {
+    "Title": "Video anomaly detection guided by clustering learning",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017",
+    "Date": "2024",
+    "Venue": "Journal",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning"
+    },
+    "Model": "Model",
+    "ModelLink": "https://drive.google.com/file/d/1Eh6NGW105jYr6QZp5UbQt_4fZ-7eqzVm/view?usp=sharing"
+  },
+  {
+    "Title": "Toward Video Anomaly Retrieval From Video Anomaly Detection: New Benchmarks and Model",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10471334",
+    "Date": "2024",
+    "Venue": "Journal",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": "https://drive.google.com/file/d/13cmEK95NiNTSlAidcSCRdLSQnjNM2Mtk/view?usp=sharing"
+  },
+  {
+    "Title": "Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "Conference",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": "https://drive.google.com/file/d/1_FEn8-1DEg4Aow23KcHg7BUKbE8S0ND_/view?usp=sharing"
+  },
+  {
+    "Title": "Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-73004-7_18",
+    "Date": "2024",
+    "Venue": "C-ECCV",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Yuchen413/AnomalyRuler"
+    },
+    "Model": "Model",
+    "ModelLink": "https://drive.google.com/file/d/1LDw54TIvKSKGXzoDFwv0bB5JmjSLu9ee/view?usp=sharing"
+  },
+  {
+    "Title": "Video Anomaly Detection and Explanation via Large Language Models",
+    "Link": "https://arxiv.org/pdf/2401.05702",
+    "Date": "2024",
+    "Venue": "arxiv",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": "https://drive.google.com/file/d/1e22JIg2QsmQPSLkYpv6rnGBU4xhZ_cln/view?usp=sharing"
+  },
+  {
+    "Title": "Context-aware Video Anomaly Detection in Long-Term Datasets",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Yang_Context-aware_Video_Anomaly_Detection_in_Long-Term_Datasets_CVPRW_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": "https://drive.google.com/file/d/1IxxlDvSo8IyQHbjesRthtgLaRjeQYVqK/view?usp=sharing"
+  },
+  {
+    "Title": "Harnessing Large Language Models for Training-free Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://lucazanella.github.io/lavad/"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Video anomaly detection guided by clustering learning",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017",
+    "Date": "2024",
+    "Venue": "J-PR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Attention-guided generator with dual discriminator GAN for real-time video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146",
+    "Date": "2024",
+    "Venue": "J-EPAI",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Rituraj-ksi/A2D-GAN"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Context Recovery and Knowledge Retrieval: A Novel Two-Stream Framework for Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/document/10462921?denied=",
+    "Date": "2024",
+    "Venue": "J-TIP",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Contracting skeletal kinematics for human-related video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S0031320324005685",
+    "Date": "2024",
+    "Venue": "J-PR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/aleflabo/COSKAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/WACV2024/papers/Al-lahham_A_Coarse-To-Fine_Pseudo-Labeling_C2FPL_Framework_for_Unsupervised_Video_Anomaly_Detection_WACV_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-WACV",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/AnasEmad11/C2FPL"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Dual GroupGAN: An unsupervised four-competitor (2V2) approach for video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324002516",
+    "Date": "2024",
+    "Venue": "J-PR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/AnasEmad11/CLAP"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
+    "Link": "https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.73",
+    "Date": "2024",
+    "Venue": "?",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/donglgcn/ADA-VAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Cross-modality integration framework with prediction, perception and discrimination for video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0893608024000546",
+    "Date": "2024",
+    "Venue": "J-NN",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/jakubmicorek/MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Memory-enhanced appearance-motion consistency framework for video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0140366424000045",
+    "Date": "2024",
+    "Venue": "J-CC",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Enhancing Video Anomaly Detection Using Spatio-Temporal Autoencoders and Convolutional LSTM Networks",
+    "Link": "https://link.springer.com/article/10.1007/s42979-023-02542-1",
+    "Date": "2024",
+    "Venue": "J-SNCS",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Spatially Aware Fusion in 3D Convolutional Autoencoders for Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613764",
+    "Date": "2024",
+    "Venue": "J-IA",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Anomaly detection in surveillance videos using deep autoencoder",
+    "Link": "https://link.springer.com/article/10.1007/s41870-023-01659-z",
+    "Date": "2024",
+    "Venue": "J-IJIT",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "CVAD-GAN: Constrained video anomaly detection via generative adversarial network",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0262885624000532",
+    "Date": "2024",
+    "Venue": "J-IVC",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Rituraj-ksi/CVAD-GAN/tree/main"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  }
 ]
