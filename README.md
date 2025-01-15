@@ -1,5 +1,5 @@
 
-# [Video Anomaly Detection](https://github.com/vt-le/Video-Anomaly-Detection) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesomme Video Anomaly Detection](https://github.com/vt-le/Video-Anomaly-Detection) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 | Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
@@ -28,6 +28,51 @@
 | [Spatially Aware Fusion in 3D Convolutional Autoencoders for Video Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613764) | 2024 | J-IA | ![](./assets/video.svg) | - | [Model]() |
 | [Anomaly detection in surveillance videos using deep autoencoder](https://link.springer.com/article/10.1007/s41870-023-01659-z) | 2024 | J-IJIT | ![](./assets/video.svg) | - | [Model]() |
 | [CVAD-GAN: Constrained video anomaly detection via generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000532) | 2024 | J-IVC | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/Rituraj-ksi/CVAD-GAN/tree/main) | [Model]() |
+| [Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/ristea/aed-mae) | [Model]() |
+| [VADiffusion: Compressed Domain Information Guided Conditional Diffusion for Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10480695) | 2024 | J-ITCaSfV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/LHaoooo/VADiffusion) | [Model]() |
+| [A deep learning-assisted visual attention mechanism for anomaly detection in videos](https://link.springer.com/article/10.1007/s11042-023-17770-z) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
+| [Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289) | 2024 | J-PR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/VideoAnomalyDection/blob/main) | [Model]() |
+| [Delving into CLIP latent space for Video Anomaly Recognition](https://arxiv.org/pdf/2310.02835) | 2024 | J-CVnIU | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/lucazanella/AnomalyCLIP) | [Model]() |
+| [An Exploratory Study on Human-Centric Video Anomaly Detection through Variational Autoencoders and Trajectory Prediction](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/papers/Noghre_An_Exploratory_Study_on_Human-Centric_Video_Anomaly_Detection_Through_Variational_WACVW_2024_paper.pdf) | 2024 | C-WACV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/TeCSAR-UNCC/TSGAD) | [Model]() |
+| [Holistic Representation Learning for Multitask Trajectory Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Stergiou_Holistic_Representation_Learning_for_Multitask_Trajectory_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | C-WACV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/alexandrosstergiou/TrajREC) | [Model]() |
+| [Deep learning based anomaly detection in real‑time video](https://link.springer.com/content/pdf/10.1007/s11042-024-19116-9.pdf) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
+| [DAST-Net: Dense visual attention augmented spatio-temporal network for unsupervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002157) | 2024 | J-NC | ![](./assets/video.svg) | - | [Model]() |
+| [ANOMALY DETECTION IN SATELLITE VIDEOS USING DIFFUSION MODELS](https://ieeexplore.ieee.org/document/10743372) | 2024 | C-WMSP | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/a04101999/Anomaly-Detection-in-Satellite-Videos-using-Diffusion-Models) | [Model]() |
+| [Evolving graph-based video crowd anomaly detection](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/979e7b44-0798-48da-924d-28fbe930ae0b/content) | 2024 | J-TVC | ![](./assets/video.svg) | - | [Model]() |
+| [Feature Reconstruction With Disruption for Unsupervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10539327) | 2024 | J-IToMs | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection) | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+
+🚀 🚀 🚀
+
+## Weakly Supervised VAD
+| Title | Date | Venue | Task | Resource | Model |
+| --- | --- | --- | --- | --- | --- |
+| [BatchNorm-based Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/document/10649595) | 2024 | J-IToCnSVT | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/cool-xuan/bn-wvad) | [Model](-) |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
