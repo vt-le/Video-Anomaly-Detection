@@ -65,21 +65,24 @@
 | Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
 | [BatchNorm-based Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/document/10649595) | 2024 | J-IToCnSVT | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/cool-xuan/bn-wvad) | [Model](-) |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28423/28826) | 2024 | C-AAAI | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/nwpu-zxr/VadCLIP) | [Model]() |
+| [Open-Vocabulary Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts](https://arxiv.org/pdf/2408.05905) | 2024 | C-ACM ICoM | ![](./assets/video.svg) | - | [Model]() |
+| [Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://arxiv.org/pdf/2306.14451) | 2024 | J-IRoIP | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/yujiangpu20/PEL4VAD) | [Model]() |
+| [BatchNorm-based Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/document/10649595) | 2024 | J-IToCnSfVT | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/cool-xuan/BN-WVAD) | [Model]() |
+| [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/VideoAnomalyDection/blob/main) | [Model]() |
+| [Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/document/10667004) | 2024 | J-IToIP | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/yujiangpu20/PEL4VAD) | [Model]() |
+| [Real-Time Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/html/Karim_Real-Time_Weakly_Supervised_Video_Anomaly_Detection_WACV_2024_paper.html) | 2024 | C-WACV | ![](./assets/video.svg) | - | [Model]() |
+| [Overlooked Video Classification in Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Tan_Overlooked_Video_Classification_in_Weakly_Supervised_Video_Anomaly_Detection_WACVW_2024_paper.pdf) | 2024 | C-WACV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/wjtan99/BERT_Anomaly_Video_Classification) | [Model]() |
+| [Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/Junxi-Chen/PE-MIL) | [Model]() |
+| [Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Ghadiya_Cross-Modal_Fusion_and_Attention_Mechanism_for_Weakly_Supervised_Video_Anomaly_CVPRW_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection](https://arxiv.org/pdf/2403.06154) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/pipixin321/GlanceVAD) | [Model]() |
+| [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/shengyangsun/TDSD) | [Model]() |
+| [A Multi-Head Approach with Shuffled Segments for Weakly-Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/AlMarri_A_Multi-Head_Approach_With_Shuffled_Segments_for_Weakly-Supervised_Video_Anomaly_WACVW_2024_paper.pdf) | 2024 | C-WACV | ![](./assets/video.svg) | - | [Model]() |
+| [Diffusion-based normality pre-training for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417424008790) | 2024 | J-ESWA | ![](./assets/video.svg) | - | [Model]() |
+| [OE-CTST: Outlier-Embedded Cross Temporal Scale Transformer for Weakly-supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Majhi_OE-CTST_Outlier-Embedded_Cross_Temporal_Scale_Transformer_for_Weakly-Supervised_Video_Anomaly_WACV_2024_paper.pdf) | 2024 | C-WACV | ![](./assets/video.svg) | - | [Model]() |
+| [VPE-WSVAD: Visual prompt exemplars for weakly-supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006129) | 2024 | J-KBS | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/VideoAnomalyDection/blob/main) | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
