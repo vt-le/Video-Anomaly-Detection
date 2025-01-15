@@ -1,0 +1,86 @@
+[
+  {
+    "Title": "Skeletal Video Anomaly Detection Using Deep Learning: Survey, Challenges, and Future Directions",
+    "Link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10453042",
+    "Date": "2024",
+    "Venue": "J-IToETiCI",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": "-"
+  },
+  {
+    "Title": "Video anomaly detection: A systematic review of issues and prospects",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231224004971",
+    "Date": "2024",
+    "Venue": "J-NC",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A survey on deep learning-based real-time crowd anomaly detection for secure distributed video surveillance",
+    "Link": "https://www.researchgate.net/profile/Mohamadreza-Khosravi/publication/352755697_A_survey_on_deep_learning-based_real-time_crowd_anomaly_detection_for_secure_distributed_video_surveillance/links/60ddbdeca6fdccb745fb821a/A-survey-on-deep-learning-based-real-time-crowd-anomaly-detection-for-secure-distributed-video-surveillance.pdf",
+    "Date": "2024",
+    "Venue": "J-PnUC",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A critical study on the recent deep learning based semi-supervised video anomaly detection methods",
+    "Link": "https://link.springer.com/article/10.1007/s11042-023-16445-z",
+    "Date": "2024",
+    "Venue": "J-MTnA",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A comprehensive review of datasets for detection and localization of video anomalies: a step towards data-centric artificial intelligence-based video anomaly detection",
+    "Link": "https://link.springer.com/article/10.1007/s11042-023-17889-z",
+    "Date": "2024",
+    "Venue": "J-MTnA",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Networking Systems for Video Anomaly Detection: A Tutorial and Survey",
+    "Link": "https://arxiv.org/pdf/2405.10347",
+    "Date": "2024",
+    "Venue": "C-X",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/fdjingliu/NSVAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  }
+]

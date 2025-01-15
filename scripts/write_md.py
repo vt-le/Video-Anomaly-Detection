@@ -88,6 +88,80 @@ content += \
 """
 🚀 🚀 🚀
 """
+content += '''
+## Surveys
+'''
+# write table headers
+content += "| Title | Date | Venue | Task | Resource | Model |\n"
+content += "| --- | --- | --- | --- | --- | --- |\n"
+
+data = json.loads(open("./scripts/data_surveys.json").read())
+
+# Convert the "Initial Date" from string to datetime object for accurate sorting
+for item in data:
+    item["Date"] = datetime.strptime(item["Date"], "%Y")
+
+# Sort the items by "Initial Date"
+data = sorted(data, key=lambda x: x["Date"])
+
+# Convert the "Initial Date" back to string format for displaying
+for item in data:
+    item["Date"] = item["Date"].strftime("%Y")
+
+for row in data:
+    content += f"| [{row['Title']}]({row['Link']}) | {row['Date']} | {row['Venue']} | "
+    # {row['Task']} | {row['Resource']} |\n
+    for task in row['Task']:
+        content += f"{badges[task.lower()]} "
+    content += f"| "
+    for k, v in row['Resource'].items():
+        if (v != "-"):
+            content += badges[k.lower()].format(v) + " "
+        else:
+            content += "-" + " "
+    content += f"| [{row['Model']}]({row['ModelLink']}) |\n"
+
+content += \
+"""
+🚀 🚀 🚀
+"""
+content += '''
+## New VAD Datasets
+'''
+# write table headers
+content += "| Title | Date | Venue | Task | Resource | Model |\n"
+content += "| --- | --- | --- | --- | --- | --- |\n"
+
+data = json.loads(open("./scripts/data_datasets.json").read())
+
+# Convert the "Initial Date" from string to datetime object for accurate sorting
+for item in data:
+    item["Date"] = datetime.strptime(item["Date"], "%Y")
+
+# Sort the items by "Initial Date"
+data = sorted(data, key=lambda x: x["Date"])
+
+# Convert the "Initial Date" back to string format for displaying
+for item in data:
+    item["Date"] = item["Date"].strftime("%Y")
+
+for row in data:
+    content += f"| [{row['Title']}]({row['Link']}) | {row['Date']} | {row['Venue']} | "
+    # {row['Task']} | {row['Resource']} |\n
+    for task in row['Task']:
+        content += f"{badges[task.lower()]} "
+    content += f"| "
+    for k, v in row['Resource'].items():
+        if (v != "-"):
+            content += badges[k.lower()].format(v) + " "
+        else:
+            content += "-" + " "
+    content += f"| [{row['Model']}]({row['ModelLink']}) |\n"
+
+content += \
+"""
+🚀 🚀 🚀
+"""
 
 with open("README.md", "w") as readme:
     readme.write(content)

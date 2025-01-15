@@ -1,0 +1,14 @@
+[
+  {
+    "Title": "Advancing Video Anomaly Detection: A Concise Review and a New Dataset",
+    "Link": "https://arxiv.org/abs/2402.04857",
+    "Date": "2024",
+    "Venue": "J-X",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://msad-dataset.github.io/"
+    },
+    "Model": "Model",
+    "ModelLink": "-"
+  }
+]
