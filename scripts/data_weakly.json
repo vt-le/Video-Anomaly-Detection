@@ -12,8 +12,20 @@
     "ModelLink": "-"
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://ojs.aaai.org/index.php/AAAI/article/view/28423/28826",
+    "Date": "2024",
+    "Venue": "C-AAAI",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/nwpu-zxr/VadCLIP"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Open-Vocabulary Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf",
     "Date": "2024",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
@@ -24,8 +36,8 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf",
     "Date": "2024",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
@@ -36,8 +48,104 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts",
+    "Link": "https://arxiv.org/pdf/2408.05905",
+    "Date": "2024",
+    "Venue": "C-ACM ICoM",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection",
+    "Link": "https://arxiv.org/pdf/2306.14451",
+    "Date": "2024",
+    "Venue": "J-IRoIP",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/yujiangpu20/PEL4VAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "BatchNorm-based Weakly Supervised Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/document/10649595",
+    "Date": "2024",
+    "Venue": "J-IToCnSfVT",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/cool-xuan/BN-WVAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/vt-le/VideoAnomalyDection/blob/main"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/document/10667004",
+    "Date": "2024",
+    "Venue": "J-IToIP",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/yujiangpu20/PEL4VAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Real-Time Weakly Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/WACV2024/html/Karim_Real-Time_Weakly_Supervised_Video_Anomaly_Detection_WACV_2024_paper.html",
+    "Date": "2024",
+    "Venue": "C-WACV",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Overlooked Video Classification in Weakly Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Tan_Overlooked_Video_Classification_in_Weakly_Supervised_Video_Anomaly_Detection_WACVW_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-WACV",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/wjtan99/BERT_Anomaly_Video_Classification"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Junxi-Chen/PE-MIL"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Ghadiya_Cross-Modal_Fusion_and_Attention_Mechanism_for_Weakly_Supervised_Video_Anomaly_CVPRW_2024_paper.pdf",
     "Date": "2024",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
@@ -48,10 +156,34 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection",
+    "Link": "https://arxiv.org/pdf/2403.06154",
     "Date": "2024",
     "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/pipixin321/GlanceVAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection",
+    "Link": "https://openreview.net/pdf?id=TAVtkpjS9P",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/shengyangsun/TDSD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A Multi-Head Approach with Shuffled Segments for Weakly-Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/AlMarri_A_Multi-Head_Approach_With_Shuffled_Segments_for_Weakly-Supervised_Video_Anomaly_WACVW_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-WACV",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -60,10 +192,10 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Diffusion-based normality pre-training for weakly supervised video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424008790",
     "Date": "2024",
-    "Venue": "C-CVPR",
+    "Venue": "J-ESWA",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -72,10 +204,10 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "OE-CTST: Outlier-Embedded Cross Temporal Scale Transformer for Weakly-supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/WACV2024/papers/Majhi_OE-CTST_Outlier-Embedded_Cross_Temporal_Scale_Transformer_for_Weakly-Supervised_Video_Anomaly_WACV_2024_paper.pdf",
     "Date": "2024",
-    "Venue": "C-CVPR",
+    "Venue": "C-WACV",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -84,109 +216,13 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "VPE-WSVAD: Visual prompt exemplars for weakly-supervised video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0950705124006129",
     "Date": "2024",
-    "Venue": "C-CVPR",
+    "Venue": "J-KBS",
     "Task": [ "Video" ],
     "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
+      "Code": "https://github.com/vt-le/VideoAnomalyDection/blob/main"
     },
     "Model": "Model",
     "ModelLink": ""
