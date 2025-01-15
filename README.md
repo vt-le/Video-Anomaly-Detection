@@ -88,3 +88,23 @@
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 
 🚀 🚀 🚀
+
+## Surveys
+| Title | Date | Venue | Task | Resource | Model |
+| --- | --- | --- | --- | --- | --- |
+| [Skeletal Video Anomaly Detection Using Deep Learning: Survey, Challenges, and Future Directions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10453042) | 2024 | J-IToETiCI | ![](./assets/video.svg) | - | [Model](-) |
+| [Video anomaly detection: A systematic review of issues and prospects](https://www.sciencedirect.com/science/article/abs/pii/S0925231224004971) | 2024 | J-NC | ![](./assets/video.svg) | - | [Model]() |
+| [A survey on deep learning-based real-time crowd anomaly detection for secure distributed video surveillance](https://www.researchgate.net/profile/Mohamadreza-Khosravi/publication/352755697_A_survey_on_deep_learning-based_real-time_crowd_anomaly_detection_for_secure_distributed_video_surveillance/links/60ddbdeca6fdccb745fb821a/A-survey-on-deep-learning-based-real-time-crowd-anomaly-detection-for-secure-distributed-video-surveillance.pdf) | 2024 | J-PnUC | ![](./assets/video.svg) | - | [Model]() |
+| [A critical study on the recent deep learning based semi-supervised video anomaly detection methods](https://link.springer.com/article/10.1007/s11042-023-16445-z) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
+| [A comprehensive review of datasets for detection and localization of video anomalies: a step towards data-centric artificial intelligence-based video anomaly detection](https://link.springer.com/article/10.1007/s11042-023-17889-z) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
+| [Networking Systems for Video Anomaly Detection: A Tutorial and Survey](https://arxiv.org/pdf/2405.10347) | 2024 | C-X | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/fdjingliu/NSVAD) | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+
+🚀 🚀 🚀
+
+## New VAD Datasets
+| Title | Date | Venue | Task | Resource | Model |
+| --- | --- | --- | --- | --- | --- |
+| [Advancing Video Anomaly Detection: A Concise Review and a New Dataset](https://arxiv.org/abs/2402.04857) | 2024 | J-X | ![](./assets/video.svg) | [![](./assets/code.svg)](https://msad-dataset.github.io/) | [Model](-) |
+
+🚀 🚀 🚀
