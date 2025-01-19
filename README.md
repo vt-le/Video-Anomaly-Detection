@@ -40,8 +40,8 @@
 | [ANOMALY DETECTION IN SATELLITE VIDEOS USING DIFFUSION MODELS](https://ieeexplore.ieee.org/document/10743372) | 2024 | C-WMSP | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/a04101999/Anomaly-Detection-in-Satellite-Videos-using-Diffusion-Models) | [Model]() |
 | [Evolving graph-based video crowd anomaly detection](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/979e7b44-0798-48da-924d-28fbe930ae0b/content) | 2024 | J-TVC | ![](./assets/video.svg) | - | [Model]() |
 | [Feature Reconstruction With Disruption for Unsupervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10539327) | 2024 | J-IToMs | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection) | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Cognition Guided Video Anomaly Detection Framework for Surveillance Services](https://ieeexplore.ieee.org/document/10542401) | 2024 | J-IEoSC | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/zmh0124/CG-VAD) | [Model]() |
+| [An informative dual ForkNet for video anomaly detection](https://www.sciencedirect.com/science/article/pii/S0893608024004337) | 2024 | J-NN | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
