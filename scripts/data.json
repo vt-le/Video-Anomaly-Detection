@@ -444,22 +444,22 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Cognition Guided Video Anomaly Detection Framework for Surveillance Services",
+    "Link": "https://ieeexplore.ieee.org/document/10542401",
     "Date": "2024",
-    "Venue": "C-CVPR",
+    "Venue": "J-IEoSC",
     "Task": [ "Video" ],
     "Resource": {
-      "Code": "-"
+      "Code": "https://github.com/zmh0124/CG-VAD"
     },
     "Model": "Model",
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "An informative dual ForkNet for video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S0893608024004337",
     "Date": "2024",
-    "Venue": "C-CVPR",
+    "Venue": "J-NN",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
