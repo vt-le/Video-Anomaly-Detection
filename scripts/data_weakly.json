@@ -228,6 +228,30 @@
     "ModelLink": ""
   },
   {
+    "Title": "Real-Time Weakly Supervised Video Anomaly Detection",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
     "Title": "",
     "Link": "",
     "Date": "2024",
@@ -256,6 +280,66 @@
     "Link": "",
     "Date": "2024",
     "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "",
+    "Link": "",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Positive and unlabeled learning on generating strategy for weakly anomaly detection",
+    "Link": "https://link.springer.com/article/10.1007/s11760-024-03797-8",
+    "Date": "2025",
+    "Venue": "J-SInVP",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Semantic-driven dual consistency learning for weakly supervised video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324006496",
+    "Date": "2025",
+    "Venue": "J-PR",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"

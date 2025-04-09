@@ -336,18 +336,6 @@
     "ModelLink": ""
   },
   {
-    "Title": "Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning",
-    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289",
-    "Date": "2024",
-    "Venue": "J-PR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "https://github.com/vt-le/VideoAnomalyDection/blob/main"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
     "Title": "Delving into CLIP latent space for Video Anomaly Recognition",
     "Link": "https://arxiv.org/pdf/2310.02835",
     "Date": "2024",
@@ -468,13 +456,61 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "MCANet: Multimodal Caption Aware Training-Free Video Anomaly Detection via Large Language Model",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-78125-4_25",
+    "Date": "2024",
+    "Venue": "C-PR",
+    "Task": [ "Video", "Text" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Open-Vocabulary Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf",
     "Date": "2024",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Video Anomaly Detection and Explanation via Large Language Models",
+    "Link": "https://arxiv.org/pdf/2401.05702",
+    "Date": "2024",
+    "Venue": "ArXiv",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Harnessing Large Language Models for Training-free Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://lucazanella.github.io/lavad/"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-73004-7_18",
+    "Date": "2024",
+    "Venue": "C-ECCV",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Yuchen413/AnomalyRuler"
     },
     "Model": "Model",
     "ModelLink": ""
@@ -588,9 +624,321 @@
     "ModelLink": ""
   },
   {
+    "Title": "HSTforU: anomaly detection in aerial and ground-based videos with hierarchical spatio-temporal transformer for U-net",
+    "Link": "https://link.springer.com/article/10.1007/s10489-024-06042-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250103&utm_content=10.1007%2Fs10489-024-06042-4",
+    "Date": "2025",
+    "Venue": "J-AI",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/vt-le/HSTforU"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289",
+    "Date": "2025",
+    "Venue": "J-PR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/vt-le/VideoAnomalyDection/blob/main"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM",
+    "Link": "https://arxiv.org/abs/2503.04504",
+    "Date": "2025",
+    "Venue": "ArXiv",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/SkiddieAhn/Paper-AnyAnomaly"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Video Anomaly Detection via self-supervised and spatio-temporal proxy tasks learning",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324007726",
+    "Date": "2025",
+    "Venue": "J-PR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A multi-memory-augmented network with a curvy metric method for video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0893608024009018",
+    "Date": "2025",
+    "Venue": "J-NN",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Learning a multi-cluster memory prototype for unsupervised video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0020025524012994",
+    "Date": "2025",
+    "Venue": "J-IS",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/WuIkun5658/MCMP"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Deep video anomaly detection in automated laboratory setting",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S0957417425002039",
+    "Date": "2025",
+    "Venue": "J-ESWA",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Adversarial diffusion for few-shot scene adaptive video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231224015674",
+    "Date": "2025",
+    "Venue": "J-N",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Spatio-temporal graph-based self-labeling for video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231225002486",
+    "Date": "2025",
+    "Venue": "J-N",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "SSIM over MSE: A new perspective for video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S089360802401044X",
+    "Date": "2025",
+    "Venue": "J-NN",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/yqytomorrow/spatio-temporal-tasks"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Rethinking prediction-based video anomaly detection from local–global normality perspective",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424024485",
+    "Date": "2025",
+    "Venue": "J-ESWA",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Myzhao1999/LGN-Net"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "AnomLite: Efficient binary and multiclass video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S2590123025002506",
+    "Date": "2025",
+    "Venue": "J-RiE",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/AnnaZverev/UCF_Crime"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Audio-Visual Collaborative Learning for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10855604",
+    "Date": "2025",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Language-guided Open-world Video Anomaly Detection",
+    "Link": "https://arxiv.org/pdf/2503.13160",
+    "Date": "2025",
+    "Venue": "ArXiv",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A video anomaly detection framework based on feature-strengthened and memory feature-ernhanced reconstruction",
+    "Link": "https://link.springer.com/article/10.1007/s00530-025-01735-3#citeas",
+    "Date": "2025",
+    "Venue": "J-MS",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A lightweight video anomaly detection model with weak supervision and adaptive instance selection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231224014693",
+    "Date": "2025",
+    "Venue": "J-N",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Retrieving and Reasoning: Multivariate Feature and Attribute Cooperation for Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10879412",
+    "Date": "2025",
+    "Venue": "J-I_SPL",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "FDC-Net: foreground dynamic capture with deep feature enhancement for video anomaly detection",
+    "Link": "https://link.springer.com/article/10.1007/s00530-025-01692-x",
+    "Date": "2025",
+    "Venue": "J-MS",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A novel spatio-temporal memory network for video anomaly detection",
+    "Link": "https://link.springer.com/article/10.1007/s11042-024-18957-8",
+    "Date": "2024",
+    "Venue": "J-MTnA",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Drone Video Anomaly Detection by Future Segmentation Prediction and Spatio- Temporal Relational Modeling",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10858152",
+    "Date": "2025",
+    "Venue": "J-IE",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Learning dual updatable memory modules for video anomaly detection",
+    "Link": "https://link.springer.com/article/10.1007/s00530-024-01597-1",
+    "Date": "2025",
+    "Venue": "J-MS",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Time-Efficient Video Anomaly Detection With Parallel Computing and Twice-Reconstruction",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10858611",
+    "Date": "2025",
+    "Venue": "J-ISJ",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Crowd Anomaly Detection From Drone and Ground",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10879365",
+    "Date": "2025",
+    "Venue": "J-IE",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://cadg24.github.io/home/"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Spatial–temporal sequential network for anomaly detection based on long short-term magnitude representation",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0262885624004931",
+    "Date": "2025",
+    "Venue": "J-InVC",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Probabilistic memory auto-encoding network for abnormal behavior detection in surveillance video",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0893608025001789",
+    "Date": "2025",
+    "Venue": "J-NN",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Human pose feature enhancement for human anomaly detection and tracking",
+    "Link": "https://link.springer.com/article/10.1007/s41870-024-02363-2",
+    "Date": "2025",
+    "Venue": "C-IJoIT",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
     "Title": "",
     "Link": "",
-    "Date": "2024",
+    "Date": "2025",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
@@ -602,7 +950,7 @@
   {
     "Title": "",
     "Link": "",
-    "Date": "2024",
+    "Date": "2025",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
@@ -614,7 +962,7 @@
   {
     "Title": "",
     "Link": "",
-    "Date": "2024",
+    "Date": "2025",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
@@ -626,7 +974,7 @@
   {
     "Title": "",
     "Link": "",
-    "Date": "2024",
+    "Date": "2025",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
@@ -638,19 +986,7 @@
   {
     "Title": "",
     "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
+    "Date": "2025",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
