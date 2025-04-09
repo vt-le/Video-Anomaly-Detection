@@ -228,8 +228,20 @@
     "ModelLink": ""
   },
   {
-    "Title": "Real-Time Weakly Supervised Video Anomaly Detection",
-    "Link": "",
+    "Title": "BatchNorm-Based Weakly Supervised Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/document/10649595",
+    "Date": "2024",
+    "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/cool-xuan/BN-WVAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf",
     "Date": "2024",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
@@ -240,7 +252,7 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
+    "Title": "BatchNorm-Based Weakly Supervised Video Anomaly Detection",
     "Link": "",
     "Date": "2024",
     "Venue": "C-CVPR",
