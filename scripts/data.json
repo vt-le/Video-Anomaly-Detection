@@ -460,7 +460,7 @@
     "Link": "https://link.springer.com/chapter/10.1007/978-3-031-78125-4_25",
     "Date": "2024",
     "Venue": "C-PR",
-    "Task": [ "Video", "Text" ],
+    "Task": [ "Text" ],
     "Resource": {
       "Code": "-"
     },
@@ -516,37 +516,25 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://ojs.aaai.org/index.php/AAAI/article/view/28423/28826",
     "Date": "2024",
-    "Venue": "C-CVPR",
+    "Venue": "C-AAAI",
     "Task": [ "Video" ],
     "Resource": {
-      "Code": "-"
+      "Code": "https://github.com/nwpu-zxr/VadCLIP"
     },
     "Model": "Model",
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Video Anomaly Detection via Spatio-Temporal Pseudo-Anomaly Generation : A Unified Approach",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/K._Video_Anomaly_Detection_via_Spatio-Temporal_Pseudo-Anomaly_Generation__A_Unified_CVPRW_2024_paper.pdf",
     "Date": "2024",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
+      "Code": "https://github.com/rayush7/unified_PA"
     },
     "Model": "Model",
     "ModelLink": ""
