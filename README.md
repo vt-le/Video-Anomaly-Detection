@@ -31,7 +31,6 @@
 | [Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/ristea/aed-mae) | [Model]() |
 | [VADiffusion: Compressed Domain Information Guided Conditional Diffusion for Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10480695) | 2024 | J-ITCaSfV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/LHaoooo/VADiffusion) | [Model]() |
 | [A deep learning-assisted visual attention mechanism for anomaly detection in videos](https://link.springer.com/article/10.1007/s11042-023-17770-z) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
-| [Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289) | 2024 | J-PR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/VideoAnomalyDection/blob/main) | [Model]() |
 | [Delving into CLIP latent space for Video Anomaly Recognition](https://arxiv.org/pdf/2310.02835) | 2024 | J-CVnIU | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/lucazanella/AnomalyCLIP) | [Model]() |
 | [An Exploratory Study on Human-Centric Video Anomaly Detection through Variational Autoencoders and Trajectory Prediction](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/papers/Noghre_An_Exploratory_Study_on_Human-Centric_Video_Anomaly_Detection_Through_Variational_WACVW_2024_paper.pdf) | 2024 | C-WACV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/TeCSAR-UNCC/TSGAD) | [Model]() |
 | [Holistic Representation Learning for Multitask Trajectory Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Stergiou_Holistic_Representation_Learning_for_Multitask_Trajectory_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | C-WACV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/alexandrosstergiou/TrajREC) | [Model]() |
@@ -42,22 +41,50 @@
 | [Feature Reconstruction With Disruption for Unsupervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10539327) | 2024 | J-IToMs | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection) | [Model]() |
 | [Cognition Guided Video Anomaly Detection Framework for Surveillance Services](https://ieeexplore.ieee.org/document/10542401) | 2024 | J-IEoSC | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/zmh0124/CG-VAD) | [Model]() |
 | [An informative dual ForkNet for video anomaly detection](https://www.sciencedirect.com/science/article/pii/S0893608024004337) | 2024 | J-NN | ![](./assets/video.svg) | - | [Model]() |
+| [MCANet: Multimodal Caption Aware Training-Free Video Anomaly Detection via Large Language Model](https://link.springer.com/chapter/10.1007/978-3-031-78125-4_25) | 2024 | C-PR | ![](./assets/video.svg) | - | [Model]() |
+| [Open-Vocabulary Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Video Anomaly Detection and Explanation via Large Language Models](https://arxiv.org/pdf/2401.05702) | 2024 | ArXiv | ![](./assets/video.svg) | - | [Model]() |
+| [Harnessing Large Language Models for Training-free Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://lucazanella.github.io/lavad/) | [Model]() |
+| [Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_18) | 2024 | C-ECCV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/Yuchen413/AnomalyRuler) | [Model]() |
+| [VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28423/28826) | 2024 | C-AAAI | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/nwpu-zxr/VadCLIP) | [Model]() |
+| [Video Anomaly Detection via Spatio-Temporal Pseudo-Anomaly Generation : A Unified Approach](https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/K._Video_Anomaly_Detection_via_Spatio-Temporal_Pseudo-Anomaly_Generation__A_Unified_CVPRW_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/rayush7/unified_PA) | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [A novel spatio-temporal memory network for video anomaly detection](https://link.springer.com/article/10.1007/s11042-024-18957-8) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
+| [HSTforU: anomaly detection in aerial and ground-based videos with hierarchical spatio-temporal transformer for U-net](https://link.springer.com/article/10.1007/s10489-024-06042-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250103&utm_content=10.1007%2Fs10489-024-06042-4) | 2025 | J-AI | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/HSTforU) | [Model]() |
+| [Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289) | 2025 | J-PR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/VideoAnomalyDection/blob/main) | [Model]() |
+| [AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM](https://arxiv.org/abs/2503.04504) | 2025 | ArXiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/SkiddieAhn/Paper-AnyAnomaly) | [Model]() |
+| [Video Anomaly Detection via self-supervised and spatio-temporal proxy tasks learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007726) | 2025 | J-PR | ![](./assets/video.svg) | - | [Model]() |
+| [A multi-memory-augmented network with a curvy metric method for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608024009018) | 2025 | J-NN | ![](./assets/video.svg) | - | [Model]() |
+| [Learning a multi-cluster memory prototype for unsupervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0020025524012994) | 2025 | J-IS | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/WuIkun5658/MCMP) | [Model]() |
+| [Deep video anomaly detection in automated laboratory setting](https://www.sciencedirect.com/science/article/pii/S0957417425002039) | 2025 | J-ESWA | ![](./assets/video.svg) | - | [Model]() |
+| [Adversarial diffusion for few-shot scene adaptive video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015674) | 2025 | J-N | ![](./assets/video.svg) | - | [Model]() |
+| [Spatio-temporal graph-based self-labeling for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231225002486) | 2025 | J-N | ![](./assets/video.svg) | - | [Model]() |
+| [SSIM over MSE: A new perspective for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S089360802401044X) | 2025 | J-NN | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/yqytomorrow/spatio-temporal-tasks) | [Model]() |
+| [Rethinking prediction-based video anomaly detection from local–global normality perspective](https://www.sciencedirect.com/science/article/abs/pii/S0957417424024485) | 2025 | J-ESWA | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/Myzhao1999/LGN-Net) | [Model]() |
+| [AnomLite: Efficient binary and multiclass video anomaly detection](https://www.sciencedirect.com/science/article/pii/S2590123025002506) | 2025 | J-RiE | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/AnnaZverev/UCF_Crime) | [Model]() |
+| [Audio-Visual Collaborative Learning for Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10855604) | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Language-guided Open-world Video Anomaly Detection](https://arxiv.org/pdf/2503.13160) | 2025 | ArXiv | ![](./assets/video.svg) | - | [Model]() |
+| [A video anomaly detection framework based on feature-strengthened and memory feature-ernhanced reconstruction](https://link.springer.com/article/10.1007/s00530-025-01735-3#citeas) | 2025 | J-MS | ![](./assets/video.svg) | - | [Model]() |
+| [A lightweight video anomaly detection model with weak supervision and adaptive instance selection](https://www.sciencedirect.com/science/article/abs/pii/S0925231224014693) | 2025 | J-N | ![](./assets/video.svg) | - | [Model]() |
+| [Retrieving and Reasoning: Multivariate Feature and Attribute Cooperation for Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10879412) | 2025 | J-I_SPL | ![](./assets/video.svg) | - | [Model]() |
+| [FDC-Net: foreground dynamic capture with deep feature enhancement for video anomaly detection](https://link.springer.com/article/10.1007/s00530-025-01692-x) | 2025 | J-MS | ![](./assets/video.svg) | - | [Model]() |
+| [Drone Video Anomaly Detection by Future Segmentation Prediction and Spatio- Temporal Relational Modeling](https://ieeexplore.ieee.org/abstract/document/10858152) | 2025 | J-IE | ![](./assets/video.svg) | - | [Model]() |
+| [Learning dual updatable memory modules for video anomaly detection](https://link.springer.com/article/10.1007/s00530-024-01597-1) | 2025 | J-MS | ![](./assets/video.svg) | - | [Model]() |
+| [Time-Efficient Video Anomaly Detection With Parallel Computing and Twice-Reconstruction](https://ieeexplore.ieee.org/abstract/document/10858611) | 2025 | J-ISJ | ![](./assets/video.svg) | - | [Model]() |
+| [Crowd Anomaly Detection From Drone and Ground](https://ieeexplore.ieee.org/abstract/document/10879365) | 2025 | J-IE | ![](./assets/video.svg) | [![](./assets/code.svg)](https://cadg24.github.io/home/) | [Model]() |
+| [Spatial–temporal sequential network for anomaly detection based on long short-term magnitude representation](https://www.sciencedirect.com/science/article/abs/pii/S0262885624004931) | 2025 | J-InVC | ![](./assets/video.svg) | - | [Model]() |
+| [Probabilistic memory auto-encoding network for abnormal behavior detection in surveillance video](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001789) | 2025 | J-NN | ![](./assets/video.svg) | - | [Model]() |
+| [Human pose feature enhancement for human anomaly detection and tracking](https://link.springer.com/article/10.1007/s41870-024-02363-2) | 2025 | C-IJoIT | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 
 🚀 🚀 🚀
 
@@ -83,9 +110,17 @@
 | [Diffusion-based normality pre-training for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417424008790) | 2024 | J-ESWA | ![](./assets/video.svg) | - | [Model]() |
 | [OE-CTST: Outlier-Embedded Cross Temporal Scale Transformer for Weakly-supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Majhi_OE-CTST_Outlier-Embedded_Cross_Temporal_Scale_Transformer_for_Weakly-Supervised_Video_Anomaly_WACV_2024_paper.pdf) | 2024 | C-WACV | ![](./assets/video.svg) | - | [Model]() |
 | [VPE-WSVAD: Visual prompt exemplars for weakly-supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006129) | 2024 | J-KBS | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/VideoAnomalyDection/blob/main) | [Model]() |
+| [BatchNorm-Based Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/document/10649595) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/cool-xuan/BN-WVAD) | [Model]() |
+| [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [BatchNorm-Based Weakly Supervised Video Anomaly Detection]() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Positive and unlabeled learning on generating strategy for weakly anomaly detection](https://link.springer.com/article/10.1007/s11760-024-03797-8) | 2025 | J-SInVP | ![](./assets/video.svg) | - | [Model]() |
+| [Semantic-driven dual consistency learning for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006496) | 2025 | J-PR | ![](./assets/video.svg) | - | [Model]() |
 
 🚀 🚀 🚀
 
@@ -98,7 +133,9 @@
 | [A critical study on the recent deep learning based semi-supervised video anomaly detection methods](https://link.springer.com/article/10.1007/s11042-023-16445-z) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
 | [A comprehensive review of datasets for detection and localization of video anomalies: a step towards data-centric artificial intelligence-based video anomaly detection](https://link.springer.com/article/10.1007/s11042-023-17889-z) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
 | [Networking Systems for Video Anomaly Detection: A Tutorial and Survey](https://arxiv.org/pdf/2405.10347) | 2024 | C-X | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/fdjingliu/NSVAD) | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Video anomaly detection: A systematic review of issues and prospects](https://www.sciencedirect.com/science/article/abs/pii/S0925231224004971) | 2024 | J-N | ![](./assets/video.svg) | - | [Model]() |
+| [A Survey on Diffusion Models for Anomaly Detection](https://arxiv.org/pdf/2501.11430) | 2025 | ArXiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/fdjingliu/DMAD) | [Model]() |
+| []() | 2025 | ArXiv | ![](./assets/video.svg) | - | [Model]() |
 
 🚀 🚀 🚀
 
