@@ -48,13 +48,20 @@
 | [Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_18) | 2024 | C-ECCV | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/Yuchen413/AnomalyRuler) | [Model]() |
 | [VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28423/28826) | 2024 | C-AAAI | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/nwpu-zxr/VadCLIP) | [Model]() |
 | [Video Anomaly Detection via Spatio-Temporal Pseudo-Anomaly Generation : A Unified Approach](https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/K._Video_Anomaly_Detection_via_Spatio-Temporal_Pseudo-Anomaly_Generation__A_Unified_CVPRW_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/rayush7/unified_PA) | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Video anomaly detection with both normal and anomaly memory modules](https://link.springer.com/article/10.1007/s00371-024-03584-z) | 2024 | J-TVC | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/SVIL2024/Pseudo-Anomaly-MemAE) | [Model]() |
+| [Video anomaly detection based on multi-scale optical flow spatio-temporal enhancement and normality mining](https://link.springer.com/article/10.1007/s13042-024-02368-0) | 2024 | J-MLC | ![](./assets/video.svg) | - | [Model]() |
+| [Generate anomalies from normal: a partial pseudo-anomaly augmented approach for video anomaly detection](https://link.springer.com/article/10.1007/s00371-024-03634-6#Sec16) | 2024 | J-TVC | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/OctCjy/GenerateAnomaliesFromNormal) | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | [A novel spatio-temporal memory network for video anomaly detection](https://link.springer.com/article/10.1007/s11042-024-18957-8) | 2024 | J-MTnA | ![](./assets/video.svg) | - | [Model]() |
+| [A Region based Salient Stacking Optimized Detector (ReSOD) for an effective anomaly detection and video tracking in surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020526) | 2025 | J-N | ![](./assets/video.svg) | - | [Model]() |
+| [Prototype-guided and dynamic-aware video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004630) | 2025 | J-NN | ![](./assets/video.svg) | - | [Model]() |
+| [AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection](https://arxiv.org/abs/2504.04495) | 2025 | C-arXiv | ![](./assets/video.svg) | - | [Model]() |
+| [VADMamba: Exploring State Space Models for Fast Video Anomaly Detection](https://arxiv.org/pdf/2503.21169) | 2025 | C-arXiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/jLooo/VADMamba) | [Model]() |
+| [A Region based Salient Stacking Optimized Detector (ReSOD) for an effective anomaly detection and video tracking in surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020526) | 2025 | J-N | ![](./assets/video.svg) | - | [Model]() |
+| [STVAD: A Lightweight Spatio–Temporal Attention Network for Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/11081895) | 2025 | J-TCSS | ![](./assets/video.svg) | - | [Model]() |
+| [Video anomaly detection with motion and appearance guided patch diffusion model]() | 2025 | C-AAAI | ![](./assets/video.svg) | - | [Model]() |
 | [HSTforU: anomaly detection in aerial and ground-based videos with hierarchical spatio-temporal transformer for U-net](https://link.springer.com/article/10.1007/s10489-024-06042-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250103&utm_content=10.1007%2Fs10489-024-06042-4) | 2025 | J-AI | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/HSTforU) | [Model]() |
 | [Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289) | 2025 | J-PR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vt-le/VideoAnomalyDection/blob/main) | [Model]() |
 | [AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM](https://arxiv.org/abs/2503.04504) | 2025 | ArXiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/SkiddieAhn/Paper-AnyAnomaly) | [Model]() |
@@ -80,11 +87,15 @@
 | [Spatial–temporal sequential network for anomaly detection based on long short-term magnitude representation](https://www.sciencedirect.com/science/article/abs/pii/S0262885624004931) | 2025 | J-InVC | ![](./assets/video.svg) | - | [Model]() |
 | [Probabilistic memory auto-encoding network for abnormal behavior detection in surveillance video](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001789) | 2025 | J-NN | ![](./assets/video.svg) | - | [Model]() |
 | [Human pose feature enhancement for human anomaly detection and tracking](https://link.springer.com/article/10.1007/s41870-024-02363-2) | 2025 | C-IJoIT | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Ye_VERA_Explainable_Video_Anomaly_Detection_via_Verbalized_Learning_of_Vision-Language_CVPR_2025_paper.pdf) | 2025 | C-CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/vera-framework/VERA) | [Model]() |
+| [A video anomaly detection framework based on semantic consistency and multi-attribute feature complementarity](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006764) | 2025 | J-PR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/jzt-dongli/SC-MAFC) | [Model]() |
+| [MSTAgent-VAD: Multi-scale video anomaly detection using time agent mechanism for segments’ temporal context mining](https://www.sciencedirect.com/science/article/abs/pii/S0957417425007766) | 2025 | J-ESWA | ![](./assets/video.svg) | - | [Model]() |
+| [PLOVAD: Prompting Vision-Language Models for Open Vocabulary Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10836858) | 2025 | J-TCSVT | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/ctX-u/PLOVAD) | [Model]() |
+| [UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/32705) | 2025 | C-AAAI | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/YBQian-Roy/UCF-Crime-DVS) | [Model]() |
+| [CRCL: Causal Representation Consistency Learning for Anomaly Detection in Surveillance Videos](https://ieeexplore.ieee.org/document/10962292) | 2025 | J-TIP | ![](./assets/video.svg) | - | [Model]() |
+| [Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) | 2025 | J-TCSV | ![](./assets/video.svg) | - | [Model]() |
+| [SUVAD: Semantic Understanding Based Video Anomaly Detection Using MLLM](https://ieeexplore.ieee.org/abstract/document/10888431) | 2025 | C-ICASSP | ![](./assets/video.svg) | - | [Model]() |
+| [Autoregressive Denoising Score Matching is a Good Video Anomaly Detector](https://arxiv.org/pdf/2506.23282) | 2025 | C-ArXiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/Bbeholder/ADSM) | [Model]() |
 
 🚀 🚀 🚀
 
@@ -114,11 +125,10 @@
 | [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | [BatchNorm-Based Weakly Supervised Video Anomaly Detection]() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
 | []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
-| []() | 2024 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Anomaly-aware self-supervised feature learning for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S107731422500102X) | 2025 | J-CVIU | ![](./assets/video.svg) | - | [Model]() |
+| [Multimodal Evidential Learning for Open-World Weakly-Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/document/10948323) | 2025 | C-CVPR | ![](./assets/video.svg) | - | [Model]() |
+| [Federated Weakly Supervised Video Anomaly Detection with Multimodal Prompt]() | 2025 | C-AAAI | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/wbfwonderful/Fed-WSVAD) | [Model]() |
+| [Federated weakly-supervised video anomaly detection with mixture of local-to-global experts](https://www.sciencedirect.com/science/article/abs/pii/S156625352500329X) | 2025 | J-IF | ![](./assets/video.svg) | - | [Model]() |
 | [Positive and unlabeled learning on generating strategy for weakly anomaly detection](https://link.springer.com/article/10.1007/s11760-024-03797-8) | 2025 | J-SInVP | ![](./assets/video.svg) | - | [Model]() |
 | [Semantic-driven dual consistency learning for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006496) | 2025 | J-PR | ![](./assets/video.svg) | - | [Model]() |
 
