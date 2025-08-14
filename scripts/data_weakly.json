@@ -276,9 +276,21 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
+    "Title": "Anomaly-aware self-supervised feature learning for weakly supervised video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S107731422500102X",
+    "Date": "2025",
+    "Venue": "J-CVIU",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Multimodal Evidential Learning for Open-World Weakly-Supervised Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/document/10948323",
+    "Date": "2025",
     "Venue": "C-CVPR",
     "Task": [ "Video" ],
     "Resource": {
@@ -288,46 +300,22 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
+    "Title": "Federated Weakly Supervised Video Anomaly Detection with Multimodal Prompt",
     "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
+    "Date": "2025",
+    "Venue": "C-AAAI",
     "Task": [ "Video" ],
     "Resource": {
-      "Code": "-"
+      "Code": "https://github.com/wbfwonderful/Fed-WSVAD"
     },
     "Model": "Model",
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "-"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
+    "Title": "Federated weakly-supervised video anomaly detection with mixture of local-to-global experts",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S156625352500329X",
+    "Date": "2025",
+    "Venue": "J-IF",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"

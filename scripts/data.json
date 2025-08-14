@@ -540,13 +540,37 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Video anomaly detection with both normal and anomaly memory modules",
+    "Link": "https://link.springer.com/article/10.1007/s00371-024-03584-z",
     "Date": "2024",
-    "Venue": "C-CVPR",
+    "Venue": "J-TVC",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/SVIL2024/Pseudo-Anomaly-MemAE"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Video anomaly detection based on multi-scale optical flow spatio-temporal enhancement and normality mining",
+    "Link": "https://link.springer.com/article/10.1007/s13042-024-02368-0",
+    "Date": "2024",
+    "Venue": "J-MLC",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Generate anomalies from normal: a partial pseudo-anomaly augmented approach for video anomaly detection",
+    "Link": "https://link.springer.com/article/10.1007/s00371-024-03634-6#Sec16",
+    "Date": "2024",
+    "Venue": "J-TVC",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/OctCjy/GenerateAnomaliesFromNormal"
     },
     "Model": "Model",
     "ModelLink": ""
@@ -588,10 +612,10 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
+    "Title": "A Region based Salient Stacking Optimized Detector (ReSOD) for an effective anomaly detection and video tracking in surveillance systems",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231224020526",
+    "Date": "2025",
+    "Venue": "J-N",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -600,10 +624,70 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
+    "Title": "Prototype-guided and dynamic-aware video anomaly detection",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0893608025004630",
+    "Date": "2025",
+    "Venue": "J-NN",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection",
+    "Link": "https://arxiv.org/abs/2504.04495",
+    "Date": "2025",
+    "Venue": "C-arXiv",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "VADMamba: Exploring State Space Models for Fast Video Anomaly Detection",
+    "Link": "https://arxiv.org/pdf/2503.21169",
+    "Date": "2025",
+    "Venue": "C-arXiv",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/jLooo/VADMamba"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A Region based Salient Stacking Optimized Detector (ReSOD) for an effective anomaly detection and video tracking in surveillance systems",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231224020526",
+    "Date": "2025",
+    "Venue": "J-N",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "STVAD: A Lightweight Spatio–Temporal Attention Network for Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/11081895",
+    "Date": "2025",
+    "Venue": "J-TCSS",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Video anomaly detection with motion and appearance guided patch diffusion model",
     "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
+    "Date": "2025",
+    "Venue": "C-AAAI",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -924,10 +1008,34 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models",
+    "Link": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ye_VERA_Explainable_Video_Anomaly_Detection_via_Verbalized_Learning_of_Vision-Language_CVPR_2025_paper.pdf",
     "Date": "2025",
     "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/vera-framework/VERA"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A video anomaly detection framework based on semantic consistency and multi-attribute feature complementarity",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320325006764",
+    "Date": "2025",
+    "Venue": "J-PR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/jzt-dongli/SC-MAFC"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "MSTAgent-VAD: Multi-scale video anomaly detection using time agent mechanism for segments’ temporal context mining",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0957417425007766",
+    "Date": "2025",
+    "Venue": "J-ESWA",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -936,10 +1044,34 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "PLOVAD: Prompting Vision-Language Models for Open Vocabulary Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10836858",
     "Date": "2025",
-    "Venue": "C-CVPR",
+    "Venue": "J-TCSVT",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/ctX-u/PLOVAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks",
+    "Link": "https://ojs.aaai.org/index.php/AAAI/article/view/32705",
+    "Date": "2025",
+    "Venue": "C-AAAI",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/YBQian-Roy/UCF-Crime-DVS"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "CRCL: Causal Representation Consistency Learning for Anomaly Detection in Surveillance Videos",
+    "Link": "https://ieeexplore.ieee.org/document/10962292",
+    "Date": "2025",
+    "Venue": "J-TIP",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -948,10 +1080,10 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection",
+    "Link": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76",
     "Date": "2025",
-    "Venue": "C-CVPR",
+    "Venue": "J-TCSV",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -960,10 +1092,10 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "SUVAD: Semantic Understanding Based Video Anomaly Detection Using MLLM",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10888431",
     "Date": "2025",
-    "Venue": "C-CVPR",
+    "Venue": "C-ICASSP",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -972,13 +1104,13 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Autoregressive Denoising Score Matching is a Good Video Anomaly Detector",
+    "Link": "https://arxiv.org/pdf/2506.23282",
     "Date": "2025",
-    "Venue": "C-CVPR",
+    "Venue": "C-ArXiv",
     "Task": [ "Video" ],
     "Resource": {
-      "Code": "-"
+      "Code": "https://github.com/Bbeholder/ADSM"
     },
     "Model": "Model",
     "ModelLink": ""
