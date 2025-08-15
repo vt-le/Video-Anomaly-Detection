@@ -101,7 +101,7 @@ content += '''
 content += "| Title | Date | Venue | Task | Resource | Model |\n"
 content += "| --- | --- | --- | --- | --- | --- |\n"
 
-data = json.loads(open("./scripts/data_surveys.json").read())
+data = json.loads(open("./scripts/data.json").read())
 
 # Convert the "Initial Date" from string to datetime object for accurate sorting
 for item in data:
