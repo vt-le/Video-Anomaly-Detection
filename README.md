@@ -1,7 +1,11 @@
 
 # [Awesomme Video Anomaly Detection](https://github.com/vt-le/Video-Anomaly-Detection) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- ## Related works HSTforU: See [HSTforU: Anomaly Detection in Aerial and Ground-based Videos with Hierarchical Spatio-Temporal Transformer for U-net
-](https://vt-le.github.io/HSTforU/).| Title | Date | Venue | Task | Resource | Model |
+
+## Related works 
+
+HSTforU: See [HSTforU: Anomaly Detection in Aerial and Ground-based Videos with Hierarchical Spatio-Temporal Transformer for U-net
+](https://vt-le.github.io/HSTforU/).
+| Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
 | [Ada-VAD: Domain Adaptable Video Anomaly Detection](https://epubs.siam.org/doi/10.1137/1.9781611978032.73) | 2024 | C-SIAM | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/donglgcn/ADA-VAD) | [Model](https://drive.google.com/file/d/1LX_mihqutn4iq57Liy9LfJ5Z6GE7eWi_/view?usp=sharing) |
 | [Attention-guided generator with dual discriminator GAN for real-time video anomaly detection](https://www.sciencedirect.com/science/article/pii/S0952197623020146) | 2024 | J-EAAI | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/Rituraj-ksi/A2D-GAN) | [Model](https://drive.google.com/file/d/1glzC2wzSGbIJS8ZCAJKtcAW_zpCgmBDB/view?usp=sharing) |
