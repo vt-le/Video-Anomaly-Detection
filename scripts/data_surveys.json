@@ -87,8 +87,8 @@
     "Title": "Deep learning for video anomaly detection: A review",
     "Link": "https://arxiv.org/pdf/2409.05383?",
     "Date": "2024",
-    "Venue": "arXiv ",
-    "Task": [ "" ],
+    "Venue": "arXiv",
+    "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
     },
