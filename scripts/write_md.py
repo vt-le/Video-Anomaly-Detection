@@ -14,7 +14,7 @@ content += """
 """
 
 content += """
-**ASTNet**: See [ASTNet: Attention-based Residual Autoencoder for Video Anomaly Detection](https://github.com/vt-le/astnet).
+**ASTNet**: See [ASTNet: Attention-based Residual Autoencoder for Video Anomaly Detection](https://vt-le.github.io/astnet/).
 """
 
 content += """
