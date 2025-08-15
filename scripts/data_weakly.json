@@ -253,9 +253,21 @@
   },
   {
     "Title": "BatchNorm-Based Weakly Supervised Video Anomaly Detection",
-    "Link": "",
+    "Link": "https://ieeexplore.ieee.org/document/10649595",
     "Date": "2024",
     "Venue": "C-CVPR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/cool-xuan/BN-WVAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping",
+    "Link": "https://ieeexplore.ieee.org/document/11036561/",
+    "Date": "2025",
+    "Venue": "J-TII",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"
@@ -264,13 +276,13 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
-    "Date": "2024",
-    "Venue": "C-CVPR",
+    "Title": "ProDisc-VAD: An Efficient System for Weakly-Supervised Anomaly Detection in Video Surveillance Applications",
+    "Link": "https://arxiv.org/abs/2505.02179",
+    "Date": "2025",
+    "Venue": "C-ArXiv",
     "Task": [ "Video" ],
     "Resource": {
-      "Code": "-"
+      "Code": "https://github.com/modadundun/ProDisc-VAD"
     },
     "Model": "Model",
     "ModelLink": ""
@@ -340,6 +352,30 @@
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0031320324006496",
     "Date": "2025",
     "Venue": "J-PR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Distilling Aggregated Knowledge for Weakly-Supervised Video Anomaly Detection",
+    "Link": "https://openaccess.thecvf.com/content/WACV2025/papers/Dalvi_Distilling_Aggregated_Knowledge_for_Weakly-Supervised_Video_Anomaly_Detection_WACV_2025_paper.pdf",
+    "Date": "2025",
+    "Venue": "C-WACV",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Dual Distillation Fusion for Weakly Supervised Anomaly Detection in Surveillance Videos",
+    "Link": "https://ieeexplore.ieee.org/document/10916737",
+    "Date": "2025",
+    "Venue": "J-TCSVT",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"

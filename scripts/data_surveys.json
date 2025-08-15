@@ -72,18 +72,6 @@
     "ModelLink": ""
   },
   {
-    "Title": "A Survey on Diffusion Models for Anomaly Detection",
-    "Link": "https://arxiv.org/pdf/2501.11430",
-    "Date": "2025",
-    "Venue": "ArXiv",
-    "Task": [ "Video" ],
-    "Resource": {
-      "Code": "https://github.com/fdjingliu/DMAD"
-    },
-    "Model": "Model",
-    "ModelLink": ""
-  },
-  {
     "Title": "Video anomaly detection: A systematic review of issues and prospects",
     "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231224004971",
     "Date": "2024",
@@ -96,13 +84,25 @@
     "ModelLink": ""
   },
   {
-    "Title": "",
-    "Link": "",
+    "Title": "Deep learning for video anomaly detection: A review",
+    "Link": "https://arxiv.org/pdf/2409.05383?",
+    "Date": "2024",
+    "Venue": "arXiv ",
+    "Task": [ "" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A Survey on Diffusion Models for Anomaly Detection",
+    "Link": "https://arxiv.org/pdf/2501.11430",
     "Date": "2025",
     "Venue": "ArXiv",
     "Task": [ "Video" ],
     "Resource": {
-      "Code": "-"
+      "Code": "https://github.com/fdjingliu/DMAD"
     },
     "Model": "Model",
     "ModelLink": ""
