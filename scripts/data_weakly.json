@@ -264,6 +264,18 @@
     "ModelLink": ""
   },
   {
+    "Title": "Transformer-enabled weakly supervised abnormal event detection in intelligent video surveillance systems",
+    "Link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624016543",
+    "Date": "2024",
+    "Venue": "J-EAAI",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/Shalmiyapaulraj78/STHTAM-VAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
     "Title": "Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping",
     "Link": "https://ieeexplore.ieee.org/document/11036561/",
     "Date": "2025",
@@ -376,6 +388,18 @@
     "Link": "https://ieeexplore.ieee.org/document/10916737",
     "Date": "2025",
     "Venue": "J-TCSVT",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping",
+    "Link": "https://ieeexplore.ieee.org/document/11036561",
+    "Date": "2025",
+    "Venue": "J-TII",
     "Task": [ "Video" ],
     "Resource": {
       "Code": "-"

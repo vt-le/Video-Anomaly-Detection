@@ -106,5 +106,29 @@
     },
     "Model": "Model",
     "ModelLink": ""
+  },
+  {
+    "Title": "Deep crowd anomaly detection: state-of-the-art, challenges, and future research directions",
+    "Link": "https://link.springer.com/article/10.1007/s10462-024-11092-8",
+    "Date": "2025",
+    "Venue": "J-AIR",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "-"
+    },
+    "Model": "Model",
+    "ModelLink": ""
+  },
+  {
+    "Title": "A Survey on Diffusion Models for Anomaly Detection",
+    "Link": "https://arxiv.org/abs/2501.11430",
+    "Date": "2025",
+    "Venue": "J-ArXiv",
+    "Task": [ "Video" ],
+    "Resource": {
+      "Code": "https://github.com/fdjingliu/DMAD"
+    },
+    "Model": "Model",
+    "ModelLink": ""
   }
 ]
