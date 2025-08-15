@@ -5,7 +5,7 @@ content = """
 # [Awesomme Video Anomaly Detection](https://github.com/vt-le/Video-Anomaly-Detection) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 """
 
-content += " ## Related works "
+#content += " ## Related works "
 #content += """HSTforU: See [HSTforU: Anomaly Detection in Aerial and Ground-based Videos with Hierarchical Spatio-Temporal Transformer for U-net
 #](https://vt-le.github.io/HSTforU/)."""
 
