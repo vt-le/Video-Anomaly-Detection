@@ -6,7 +6,7 @@
 **HSTforU**: See [HSTforU: Anomaly Detection in Aerial and Ground-based Videos with Hierarchical Spatio-Temporal Transformer for U-net
 ](https://vt-le.github.io/HSTforU/).
 
-**ASTNet**: See [ASTNet: Attention-based Residual Autoencoder for Video Anomaly Detection](https://github.com/vt-le/astnet).
+**ASTNet**: See [ASTNet: Attention-based Residual Autoencoder for Video Anomaly Detection](https://vt-le.github.io/astnet/).
 
 #
 | Title | Date | Venue | Task | Resource | Model |
